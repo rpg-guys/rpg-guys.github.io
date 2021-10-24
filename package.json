@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "mongose": "^0.0.2-security"
+  },
+  "name": "rpg-guys.github.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpg-guys/rpg-guys.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpg-guys/rpg-guys.github.io/issues"
+  },
+  "homepage": "https://github.com/rpg-guys/rpg-guys.github.io#readme"
+}
